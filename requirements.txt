@@ -11,4 +11,5 @@ flask-cors==4.0.1
 requests==2.32.3
 Pillow>=10.0.0
 openai>=1.0.0
+twilio>=8.0.0
 
